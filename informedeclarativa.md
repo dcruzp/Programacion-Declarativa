@@ -11,7 +11,7 @@
 La solución esta en el fichero *hanoi.pl*, esta solución que implemente es la 
 típica a problemas de recursividad. 
 
-Lo primero que defini fue el predicado ```hanoi(N)``` que lo defini de la manera siguiente: 
+Lo primero que definí fue el predicado ```hanoi(N)``` que lo defini de la manera siguiente: 
 ```
 hanoi(N):-move(N,'A','C','B').
 ```
